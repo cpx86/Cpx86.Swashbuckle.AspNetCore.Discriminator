@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cpx86.Swashbuckle.AspNetCore.Discriminator\Cpx86.Swashbuckle.AspNetCore.Discriminator.csproj" />
+  </ItemGroup>
+
+</Project>
